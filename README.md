@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ### Leetcode Activity
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ryannealeigh&theme=dark" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ryannealeigh" width="400"/>
 </a>
