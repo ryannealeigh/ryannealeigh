@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-### GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ryannealeigh)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryannealeigh&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ryannealeigh/ryannealeigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Leetcode Activity
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ryannealeigh" width="400"/>
-</a>
